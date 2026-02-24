@@ -759,8 +759,9 @@ export const APPARITIONS_SPELLCASTING = {
         "Compendium.pf2e.spells-srd.Item.ZqmP9gijBmK7y8Xy",
     ],
 "harbinger-of-ashen-stars": [
-       "Item.4REGyCLpcwlA901x",
-        "Compendium.pf2e.spells-srd.Item.jfVCuOpzC6mUrf6f",
+		"Compendium.pf2e.spells-srd.Item.zhDIiQlJmrd4UDNC",
+      	 "Item.4REGyCLpcwlA901x",
+       
         "Compendium.pf2e.spells-srd.Item.9XHmC2JgTUIQ1CCm",
         "Compendium.pf2e.spells-srd.Item.T4QKmtYPeCgYxVGe",
         "Compendium.pf2e.spells-srd.Item.Y3G6Y6EDgCY0s3fq",
