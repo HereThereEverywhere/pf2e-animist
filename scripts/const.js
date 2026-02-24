@@ -66,7 +66,7 @@ export const SECOND = {
             ]
         },
 		{
-    "label": "pf2e-animist.harbinger-of-ashen-stars",
+    "label": "Harbinger of Ashen Stars",
     "value": "harbinger-of-ashen-stars",
     "predicate": [
         {
@@ -184,7 +184,7 @@ export const THIRD = {
             ]
         },
 		{
-    "label": "pf2e-animist.harbinger-of-ashen-stars",
+    "label": "Harbinger of Ashen Stars",
     "value": "harbinger-of-ashen-stars",
     "predicate": [
         {
@@ -369,7 +369,7 @@ export const FOURTH = {
             ]
         },
 		{
-    "label": "pf2e-animist.harbinger-of-ashen-stars",
+    "label": "Harbinger of Ashen Stars",
     "value": "harbinger-of-ashen-stars",
     "predicate": [
         {
@@ -565,7 +565,7 @@ export const APPARITIONS = {
     "steward-of-stone-and-fire": ["Mountain", "Volcano"],
     "vanguard-of-roaring-waters": ["Mountain", "River"],
     "witness-to-ancient-battles": ["Battlegrounds", "Heraldry"],
-    "harbinger-of-ashen-stars": ["Astrology", "Volcano"]
+    "harbinger-of-ashen-stars": ["Astrology", "Fortune-Telling"]
 };
 export const UUID_APPARITIONS = {
     "Compendium.pf2e.classfeatures.Item.csrF8UOWPl1rr6st": "crafter-in-the-vault",
@@ -759,7 +759,7 @@ export const APPARITIONS_SPELLCASTING = {
         "Compendium.pf2e.spells-srd.Item.ZqmP9gijBmK7y8Xy",
     ],
 "harbinger-of-ashen-stars": [
-        "Compendium.pf2e.spells-srd.Item.zhDIiQlJmrd4UDNC",
+       "Item.4REGyCLpcwlA901x",
         "Compendium.pf2e.spells-srd.Item.jfVCuOpzC6mUrf6f",
         "Compendium.pf2e.spells-srd.Item.9XHmC2JgTUIQ1CCm",
         "Compendium.pf2e.spells-srd.Item.T4QKmtYPeCgYxVGe",
