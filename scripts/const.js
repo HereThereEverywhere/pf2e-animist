@@ -15,7 +15,7 @@ export const FIRST = {
         { "label": "pf2e-animist.steward-of-stone-and-fire", "value": "steward-of-stone-and-fire" },
         { "label": "pf2e-animist.vanguard-of-roaring-waters", "value": "vanguard-of-roaring-waters" },
         { "label": "pf2e-animist.witness-to-ancient-battles", "value": "witness-to-ancient-battles" },
-        { "label": "pf2e-animist.harbinger-of-ashen-stars", "value": "harbinger-of-ashen-stars" },
+        { "label": "Harbinger of Ashen Stars", "value": "harbinger-of-ashen-stars" },
         { "label": "pf2e-animist.dispersed", "value": "dispersed" }
     ],
     "toggleable": true,
