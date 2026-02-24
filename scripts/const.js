@@ -65,6 +65,15 @@ export const SECOND = {
                 }
             ]
         },
+		{
+    "label": "pf2e-animist.harbinger-of-ashen-stars",
+    "value": "harbinger-of-ashen-stars",
+    "predicate": [
+        {
+            "not": "primary-apparition:harbinger-of-ashen-stars"
+        }
+    ]
+},
         {
             "label": "pf2e-animist.lurker-in-devouring-dark",
             "value": "lurker-in-devouring-dark",
@@ -174,6 +183,18 @@ export const THIRD = {
                 }
             ]
         },
+		{
+    "label": "pf2e-animist.harbinger-of-ashen-stars",
+    "value": "harbinger-of-ashen-stars",
+    "predicate": [
+        {
+            "nor": [
+                "primary-apparition:harbinger-of-ashen-stars",
+                "secondary-apparition:harbinger-of-ashen-stars"
+            ]
+        }
+    ]
+},
         {
             "label": "pf2e-animist.custodian-of-groves-and-gardens",
             "value": "custodian-of-groves-and-gardens",
@@ -347,6 +368,19 @@ export const FOURTH = {
                 }
             ]
         },
+		{
+    "label": "pf2e-animist.harbinger-of-ashen-stars",
+    "value": "harbinger-of-ashen-stars",
+    "predicate": [
+        {
+            "nor": [
+                "primary-apparition:harbinger-of-ashen-stars",
+                "secondary-apparition:harbinger-of-ashen-stars",
+				"third-apparition:harbinger-of-ashen-stars"
+            ]
+        }
+    ]
+}.
         {
             "label": "pf2e-animist.custodian-of-groves-and-gardens",
             "value": "custodian-of-groves-and-gardens",
