@@ -36,7 +36,7 @@
     "scripts/main.js"
   ],
   "styles": [
-    "styles/main.css"
+   "static/styles/main.css"
   ],
   "packFolders": [],
   "packs": [
