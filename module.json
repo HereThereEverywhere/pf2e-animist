@@ -24,7 +24,7 @@
     {
       "lang": "cn",
       "name": "简体中文",
-      "path": "lang/cn.json"
+      "path": "static/lang/cn.json"
     },
     {
       "lang": "pl",
