@@ -380,7 +380,7 @@ export const FOURTH = {
             ]
         }
     ]
-}.
+},
         {
             "label": "pf2e-animist.custodian-of-groves-and-gardens",
             "value": "custodian-of-groves-and-gardens",
