@@ -2,62 +2,21 @@ export const FIRST = {
     "key": "RollOption",
     "option": "primary-apparition",
     "suboptions": [
-        {
-            "label": "pf2e-animist.crafter-in-the-vault",
-            "value": "crafter-in-the-vault"
-        },
-        {
-            "label": "pf2e-animist.custodian-of-groves-and-gardens",
-            "value": "custodian-of-groves-and-gardens"
-        },
-        {
-            "label": "pf2e-animist.echo-of-lost-moments",
-            "value": "echo-of-lost-moments"
-        },
-        {
-            "label": "pf2e-animist.impostor-in-hidden-places",
-            "value": "impostor-in-hidden-places"
-        },
-        {
-            "label": "pf2e-animist.lurker-in-devouring-dark",
-            "value": "lurker-in-devouring-dark"
-        },
-        {
-            "label": "pf2e-animist.monarch-of-the-fey-courts",
-            "value": "monarch-of-the-fey-courts"
-        },
-        {
-            "label": "pf2e-animist.reveler-in-lost-glee",
-            "value": "reveler-in-lost-glee"
-        },
-        {
-            "label": "pf2e-animist.shepherd-of-errant-winds",
-            "value": "shepherd-of-errant-winds"
-        },
-        {
-            "label": "pf2e-animist.speaker-in-sibilance",
-            "value": "speaker-in-sibilance"
-        },
-        {
-            "label": "pf2e-animist.stalker-in-darkened-boughs",
-            "value": "stalker-in-darkened-boughs"
-        },
-        {
-            "label": "pf2e-animist.steward-of-stone-and-fire",
-            "value": "steward-of-stone-and-fire"
-        },
-        {
-            "label": "pf2e-animist.vanguard-of-roaring-waters",
-            "value": "vanguard-of-roaring-waters"
-        },
-        {
-            "label": "pf2e-animist.witness-to-ancient-battles",
-            "value": "witness-to-ancient-battles"
-        },
-        {
-            "label": "pf2e-animist.dispersed",
-            "value": "dispersed"
-        }
+        { "label": "pf2e-animist.crafter-in-the-vault", "value": "crafter-in-the-vault" },
+        { "label": "pf2e-animist.custodian-of-groves-and-gardens", "value": "custodian-of-groves-and-gardens" },
+        { "label": "pf2e-animist.echo-of-lost-moments", "value": "echo-of-lost-moments" },
+        { "label": "pf2e-animist.impostor-in-hidden-places", "value": "impostor-in-hidden-places" },
+        { "label": "pf2e-animist.lurker-in-devouring-dark", "value": "lurker-in-devouring-dark" },
+        { "label": "pf2e-animist.monarch-of-the-fey-courts", "value": "monarch-of-the-fey-courts" },
+        { "label": "pf2e-animist.reveler-in-lost-glee", "value": "reveler-in-lost-glee" },
+        { "label": "pf2e-animist.shepherd-of-errant-winds", "value": "shepherd-of-errant-winds" },
+        { "label": "pf2e-animist.speaker-in-sibilance", "value": "speaker-in-sibilance" },
+        { "label": "pf2e-animist.stalker-in-darkened-boughs", "value": "stalker-in-darkened-boughs" },
+        { "label": "pf2e-animist.steward-of-stone-and-fire", "value": "steward-of-stone-and-fire" },
+        { "label": "pf2e-animist.vanguard-of-roaring-waters", "value": "vanguard-of-roaring-waters" },
+        { "label": "pf2e-animist.witness-to-ancient-battles", "value": "witness-to-ancient-battles" },
+        { "label": "pf2e-animist.harbinger-of-ashen-stars", "value": "harbinger-of-ashen-stars" },
+        { "label": "pf2e-animist.dispersed", "value": "dispersed" }
     ],
     "toggleable": true,
     "alwaysActive": true,
@@ -572,7 +531,8 @@ export const APPARITIONS = {
     "steward-of-stone-and-fire": ["Mountain", "Volcano"],
     "vanguard-of-roaring-waters": ["Mountain", "River"],
     "witness-to-ancient-battles": ["Battlegrounds", "Heraldry"],
-}
+    "harbinger-of-ashen-stars": ["Astrology", "Volcano"]
+};
 export const UUID_APPARITIONS = {
     "Compendium.pf2e.classfeatures.Item.csrF8UOWPl1rr6st": "crafter-in-the-vault",
     "Compendium.pf2e.classfeatures.Item.EyRHVD4h2eZYIsk5": "custodian-of-groves-and-gardens",
@@ -587,6 +547,7 @@ export const UUID_APPARITIONS = {
     "Compendium.pf2e.classfeatures.Item.ILGq8LQBnwsAz2jK": "steward-of-stone-and-fire",
     "Compendium.pf2e.classfeatures.Item.M3q0KIyuMvSgUZH7": "vanguard-of-roaring-waters",
     "Compendium.pf2e.classfeatures.Item.k9P2mXRjyy5X24rH": "witness-to-ancient-battles",
+  "Compendium.pf2e.classfeatures.Item.CVbp75Ms5M0uv7Fj": "harbinger-of-ashen-stars",
 }
 
 export const VESSEL_FOCUS = {
@@ -603,6 +564,7 @@ export const VESSEL_FOCUS = {
     "steward-of-stone-and-fire": "Compendium.pf2e.spells-srd.Item.PrlR2sLWeiuTcPF2",
     "vanguard-of-roaring-waters": "Compendium.pf2e.spells-srd.Item.ew4ToaTU3o8ahKio",
     "witness-to-ancient-battles": "Compendium.pf2e.spells-srd.Item.X4On99Nti8gjWywG",
+	 "harbinger-of-ashen-stars": "Compendium.pf2e.spells-srd.Item.T4QKmtYPeCgYxVGe",
 }
 
 export const APPARITIONS_SPELLCASTING = {
@@ -761,6 +723,18 @@ export const APPARITIONS_SPELLCASTING = {
         "Compendium.pf2e.spells-srd.Item.AlbpWWN87yGegoAF",
         "Compendium.pf2e.spells-srd.Item.qlxM7Ik3uUeUIOcv",
         "Compendium.pf2e.spells-srd.Item.ZqmP9gijBmK7y8Xy",
+    ],
+"harbinger-of-ashen-stars": [
+        "Compendium.pf2e.spells-srd.Item.zhDIiQlJmrd4UDNC",
+        "Compendium.pf2e.spells-srd.Item.jfVCuOpzC6mUrf6f",
+        "Compendium.pf2e.spells-srd.Item.9XHmC2JgTUIQ1CCm",
+        "Compendium.pf2e.spells-srd.Item.T4QKmtYPeCgYxVGe",
+        "Compendium.pf2e.spells-srd.Item.Y3G6Y6EDgCY0s3fq",
+        "Compendium.pf2e.spells-srd.Item.zfn5RqAdF63neqpP",
+        "Compendium.pf2e.spells-srd.Item.K2bTUhucPyhXlzjw",
+        "Compendium.pf2e.spells-srd.Item.smiVuoFMSgY2FTOO",
+        "Compendium.pf2e.spells-srd.Item.0fjz8qc9NfkmWmJZ",
+        "Compendium.pf2e.spells-srd.Item.yLJROsQtyrPIKcDx"
     ],
 }
 
