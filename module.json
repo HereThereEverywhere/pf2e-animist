@@ -14,12 +14,12 @@
     {
       "lang": "en",
       "name": "English",
-      "path": "lang/en.json"
+      "path": "static/lang/en.json"
     },
     {
       "lang": "fr",
       "name": "Français",
-      "path": "lang/fr.json"
+      "path": "static/lang/fr.json"
     },
     {
       "lang": "cn",
@@ -29,7 +29,7 @@
     {
       "lang": "pl",
       "name": "Polski",
-      "path": "lang/pl.json"
+      "path": "static/lang/pl.json"
     }
   ],
   "esmodules": [
