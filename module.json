@@ -33,7 +33,7 @@
     }
   ],
   "esmodules": [
-    "main.css"
+    "scripts/main.js"
   ],
   "styles": [
     "styles/main.css"
