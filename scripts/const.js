@@ -15,7 +15,7 @@ export const FIRST = {
         { "label": "pf2e-animist.steward-of-stone-and-fire", "value": "steward-of-stone-and-fire" },
         { "label": "pf2e-animist.vanguard-of-roaring-waters", "value": "vanguard-of-roaring-waters" },
         { "label": "pf2e-animist.witness-to-ancient-battles", "value": "witness-to-ancient-battles" },
-        { "label": "Harbinger of Ashen Stars", "value": "harbinger-of-ashen-stars" },
+        { "label": "pf2e-animist.harbinger-of-ashen-stars", "value": "harbinger-of-ashen-stars" },
         { "label": "pf2e-animist.dispersed", "value": "dispersed" }
     ],
     "toggleable": true,
@@ -66,7 +66,7 @@ export const SECOND = {
             ]
         },
 		{
-    "label": "Harbinger of Ashen Stars",
+    "label": "pf2e-animist.harbinger-of-ashen-stars",
     "value": "harbinger-of-ashen-stars",
     "predicate": [
         {
@@ -184,7 +184,7 @@ export const THIRD = {
             ]
         },
 		{
-    "label": "Harbinger of Ashen Stars",
+    "label": "pf2e-animist.harbinger-of-ashen-stars",
     "value": "harbinger-of-ashen-stars",
     "predicate": [
         {
@@ -369,7 +369,7 @@ export const FOURTH = {
             ]
         },
 		{
-    "label": "Harbinger of Ashen Stars",
+    "label": "pf2e-animist.harbinger-of-ashen-stars",
     "value": "harbinger-of-ashen-stars",
     "predicate": [
         {
@@ -598,7 +598,7 @@ export const VESSEL_FOCUS = {
     "steward-of-stone-and-fire": "Compendium.pf2e.spells-srd.Item.PrlR2sLWeiuTcPF2",
     "vanguard-of-roaring-waters": "Compendium.pf2e.spells-srd.Item.ew4ToaTU3o8ahKio",
     "witness-to-ancient-battles": "Compendium.pf2e.spells-srd.Item.X4On99Nti8gjWywG",
-	 "harbinger-of-ashen-stars": "Compendium.pf2e.spells-srd.Item.T4QKmtYPeCgYxVGe",
+	 "harbinger-of-ashen-stars": "Item.q9igU6xYs4YbH1TE",
 }
 
 export const APPARITIONS_SPELLCASTING = {
@@ -759,11 +759,11 @@ export const APPARITIONS_SPELLCASTING = {
         "Compendium.pf2e.spells-srd.Item.ZqmP9gijBmK7y8Xy",
     ],
 "harbinger-of-ashen-stars": [
-		"Compendium.pf2e.spells-srd.Item.zhDIiQlJmrd4UDNC",
+		"Item.8xFsourtjC0vgrZ4",
       	 "Item.4REGyCLpcwlA901x",
        
-        "Compendium.pf2e.spells-srd.Item.9XHmC2JgTUIQ1CCm",
-        "Compendium.pf2e.spells-srd.Item.T4QKmtYPeCgYxVGe",
+        "Item.jxErWPkNNS5BCB0f",
+        "Item.Du1kvIux2Mm2ovTe",
         "Compendium.pf2e.spells-srd.Item.Y3G6Y6EDgCY0s3fq",
         "Compendium.pf2e.spells-srd.Item.zfn5RqAdF63neqpP",
         "Compendium.pf2e.spells-srd.Item.K2bTUhucPyhXlzjw",
